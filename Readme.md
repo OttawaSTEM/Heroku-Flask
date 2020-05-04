@@ -15,7 +15,7 @@
 [https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/tree/master](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/tree/master)
 
 3. Add the Heroku button  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/OttawaSTEM/Heroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/)
 
 ## 1. Create python virual environment
 $ python -m venv venv
