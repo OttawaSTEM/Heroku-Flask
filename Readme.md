@@ -6,7 +6,7 @@
 {
     "name": "Heroku Github deployment",
     "description": "Heroku flask deployment",
-    "repository": "https://github.com/OttawaSTEM/Heroku",
+    "repository": "https://github.com/OttawaSTEM/Heroku/",
     "logo": "https://ottawastem.com/static/site/img/logo-big.png",
     "keywords": ["heroku", "flask", "github"]
 }
