@@ -1,7 +1,7 @@
 # Heroku Flask Deployment
 
 ## Create a 'Deploy to Heroku' Button
-Create ```app.json``` file
+1. Create ```app.json``` file
 ```
 {
     "name": "Heroku Github deployment",
@@ -11,9 +11,11 @@ Create ```app.json``` file
     "keywords": ["heroku", "flask", "github"]
 }
 ```
-Test the ```app.json``` file use your web browser to deploy from Heroku’s new Dashboard:
+2. Test the ```app.json``` file use your web browser to deploy from Heroku’s new Dashboard:  
 [https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/tree/master](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/tree/master)
 
+3. Add the Heroku button
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## 1. Create python virual environment
 $ python -m venv venv
