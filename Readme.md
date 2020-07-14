@@ -25,7 +25,7 @@ web: gunicorn run:app
 [https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/)
 
 ### 2.3 Add the Heroku button in ```Readme.md```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku-Flask.git/)
 
 ## 3. Connect Github to Heroku
 ### 3.1 Under Heroku application -> "Deploy" -> "Deployment method"
